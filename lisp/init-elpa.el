@@ -72,8 +72,12 @@
         ;; ("melpa" . "http://mirrors.163.com/elpa/melpa/")
         ;; ("melpa-stable" . "http://mirrors.163.com/elpa/melpa-stable/")
         ;; }}
-        ("melpa" . "https://melpa.org/packages/")
-        ("melpa-stable" . "https://stable.melpa.org/packages/")
+        ;; ("melpa" . "https://melpa.org/packages/")
+        ;; ("melpa-stable" . "https://stable.melpa.org/packages/")
+        ;; ELPA 镜像
+        ;; ("gnu" . "https://elpa.emacs-china.org/gnu/")
+        ("melpa" . "http://elpa.emacs-china.org/melpa/")
+        ("melpa-stable" . "http://elpa.emacs-china.org/melpa-stable/")
         ))
 
 ;; Un-comment below line if you follow "Install stable version in easiest way"
