@@ -1,4 +1,5 @@
-=======
+新手初学，感谢大佬的配置
+========= 
 * Features
 - Efficient. Emacs *starts up in one second*
 - Robust. Emacs will never crash after a full package upgrade
